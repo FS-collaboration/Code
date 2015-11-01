@@ -1,5 +1,7 @@
 % Example of FS-cell entering depolarization block (DB).
 %  The idea:  Increase extracellular potassium (EK) to enter DB.
+%Small Edit
+
 
 clear
 close all
